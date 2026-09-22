@@ -31,7 +31,7 @@ L’interface est volontairement très simple :
 │        35 s         │
 └─────────────────────┘
 ```
-![](20260922_104826.jpg)
+![](20260922_104826b.jpg)
 
 ![Boitier compact STL](boitier.stl)
 
