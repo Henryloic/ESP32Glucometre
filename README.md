@@ -32,7 +32,6 @@ L’interface est volontairement très simple :
 └─────────────────────┘
 ```
 ![](20260922_104826.jpg)
-![](20260922_111204.jpg)
 
 ![Boitier compact STL](boitier.stl)
 
