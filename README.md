@@ -2,7 +2,7 @@
 
 ## 1. Présentation
 
-20260922_094856.jpg
+![Premier prototype](20260922_094856.jpg)
 
 **Libre Sport Display** est un petit afficheur déporté basé sur un **ESP32-C3** et un écran OLED I²C de 1,3 pouce.
 
@@ -31,6 +31,12 @@ L’interface est volontairement très simple :
 │        35 s         │
 └─────────────────────┘
 ```
+
+![hometrainer](20260922_104826.jpg)
+
+![Boitier compact STL](boitier.stl)
+
+
 
 ### Signification des tendances
 
