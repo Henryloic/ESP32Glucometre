@@ -1,5 +1,7 @@
 # Guide utilisateur — Libre Sport Display ESP32-C3
 
+**Libre Sport Display** is a small DIY device built with an ESP32-C3 and a 1.3-inch OLED screen. It displays the latest LibreLinkUp value and trend without opening the phone application.
+
 ## 1. Présentation
 
 ![Premier prototype](20260922_094856.jpg)
