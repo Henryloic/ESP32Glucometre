@@ -18,6 +18,10 @@ L’objectif est de pouvoir consulter rapidement la valeur pendant une séance d
 > [!IMPORTANT]
 > Ce projet est un afficheur secondaire de confort. Il ne remplace ni l’application officielle, ni ses alarmes, ni les recommandations d’un professionnel de santé.
 
+![](20260922_104826b.jpg)
+
+![Boitier compact STL](boitier.stl)
+
 ---
 
 ## 2. Affichage
@@ -31,9 +35,6 @@ L’interface est volontairement très simple :
 │        35 s         │
 └─────────────────────┘
 ```
-![](20260922_104826b.jpg)
-
-![Boitier compact STL](boitier.stl)
 
 ### Signification des tendances
 
