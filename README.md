@@ -2,6 +2,8 @@
 
 ## 1. Présentation
 
+20260922_094856.jpg
+
 **Libre Sport Display** est un petit afficheur déporté basé sur un **ESP32-C3** et un écran OLED I²C de 1,3 pouce.
 
 Il récupère périodiquement la dernière mesure disponible depuis le service LibreLinkUp et affiche uniquement les informations utiles pendant une activité sportive :
