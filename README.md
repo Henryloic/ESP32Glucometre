@@ -35,7 +35,6 @@ L’interface est volontairement très simple :
 
 ![Boitier compact STL](boitier.stl)
 
-
 ### Signification des tendances
 
 | Code reçu | Affichage | Signification |
